@@ -1,0 +1,13 @@
+const sampleTexts = [
+  "The quick brown fox jumps over the lazy dog. Sphinx of black quartz, judge my vow. How vexingly quick daft zebras jump! Exploring the mysterious jungle, five women discovered ancient quartz boxes. Crazy Fredrick bought many very exquisite opal jewels. Pack my box with five dozen liquor jugs. The five boxing wizards jump quickly over the lazy river.",
+  
+  "Programming is the process of creating a set of instructions that tell a computer how to perform a task. Programming can be done using many different languages. Each programming language has its own unique syntax and features. Some languages are better suited for specific types of tasks than others. Learning to code requires patience, logical thinking, and attention to detail. Modern software development often involves collaboration between multiple programmers using version control systems. Debugging is an essential skill that helps identify and fix errors in code.",
+  
+  "The five boxing wizards jump quickly. Pack my box with five dozen liquor jugs. Amazingly few discotheques provide jukeboxes. How razorback-jumping frogs can level six piqued gymnasts! Jaded zombies acted quaintly but kept driving their oxen forward. Crazy Fredrick bought many very exquisite opal jewels. We promptly judged antique ivory buckles for the next prize. Sixty zippers were quickly picked from the woven jute bag.",
+  
+  "She sells seashells by the seashore. The shells she sells are surely seashells. So if she sells shells on the seashore, I'm sure she sells seashore shells. Sally sought some shells while strolling slowly by the sparkling sea. She spotted several stunning specimens spread across the sand. Seven special seashells shimmered splendidly in sunshine. Sifting through sand, she selected sixty-six seashells to showcase in her shop. Shoppers soon showed substantial support for Sally's seaside store.",
+  
+  "The rain in Spain stays mainly in the plain. How much wood would a woodchuck chuck if a woodchuck could chuck wood? Peter Piper picked a peck of pickled peppers. A peck of pickled peppers Peter Piper picked. If Peter Piper picked a peck of pickled peppers, where's the peck of pickled peppers Peter Piper picked? Betty Botter bought some butter, but she said this butter's bitter. If I put it in my batter, it will make my batter bitter. So Betty Botter bought some better butter, better than the bitter butter, to make her bitter batter better."
+];
+
+export default sampleTexts;
